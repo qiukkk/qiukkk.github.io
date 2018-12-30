@@ -43,7 +43,7 @@ social:
 # Google Analytics
 ga:
      id: UA-131501959-1
-     host: https://github.com
+    # host: https://github.com
      ga_domain: auto
      
   #Featured Tags

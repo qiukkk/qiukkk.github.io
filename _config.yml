@@ -1,14 +1,9 @@
 # Basic
 title: young_link
 subtitle: Share everything......
-#welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Zelda for life.
-#creator: <a href="http://onev.cat">@onevcat</a>
-
-#url: "http://vno.onevcat.com"
-
 permalink: /:year/:month/:title/
-
+keyword: "games" 
 # Format
 highlighter: rouge
 
@@ -24,7 +19,8 @@ blog_button:
 nav:
     - {title: Projects, description: My Projects, url: 'http://www.google.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-
+    
+ 
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10

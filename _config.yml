@@ -42,5 +42,6 @@ social:
 
 # Google Analytics
 ga:
-    # id: your_ga_id
-    # host: your_host
+     id: UA-131501959-1
+     host: https://github.com
+     ga_domain: auto
